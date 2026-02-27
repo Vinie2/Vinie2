@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Vineesha 👋
 
-<!--
-**Vinie2/Vinie2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst skilled in Excel, SQL, Power BI, and Tableau.
 
-Here are some ideas to get you started:
+## 🔹 Technical Skills
+- Excel (PivotTables, Dashboard Design, Data Cleaning)
+- SQL (Joins, Aggregations, Subqueries)
+- Power BI (Data Modeling, DAX, Interactive Dashboards)
+- Tableau (Data Visualization, Trend Analysis)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Portfolio Projects
+- 🚴 Bike Buyers Sales Analysis (Excel)
+- 🛒 Blinkit Retail Analysis (Excel + Tableau)
+- 📈 Data Professional Survey Analysis (Power BI)
+
+## 🎯 Career Goal
+Seeking Data Analyst / Business Intelligence Internship or Entry-Level Role.
